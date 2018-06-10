@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "01b9259ec2cad43acc83a968ebe6b74f189b7b8a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "LHBMatchingTest/1.0.0": {
+        "dependencies": {
+          "MedallionRandom": "1.1.0"
+        },
+        "runtime": {
+          "LHBMatchingTest.dll": {}
+        }
+      },
+      "MedallionRandom/1.1.0": {
+        "runtime": {
+          "lib/netstandard1.3/MedallionRandom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LHBMatchingTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedallionRandom/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RBSz2xddcuDIkY7oRxzSRGddgv98iMkAyqa+1P5NpECBgeDUtK7GMhM+ZM1Ed4qddqXqi6AwgDyI/2iji3q3yw==",
+      "path": "medallionrandom/1.1.0",
+      "hashPath": "medallionrandom.1.1.0.nupkg.sha512"
+    }
+  }
+}

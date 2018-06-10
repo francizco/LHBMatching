@@ -1,0 +1,10 @@
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/bin/Release/netcoreapp1.1/LHBMatchingTest.deps.json
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/bin/Release/netcoreapp1.1/LHBMatchingTest.runtimeconfig.json
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/bin/Release/netcoreapp1.1/LHBMatchingTest.runtimeconfig.dev.json
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/bin/Release/netcoreapp1.1/LHBMatchingTest.dll
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/bin/Release/netcoreapp1.1/LHBMatchingTest.pdb
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/obj/Release/netcoreapp1.1/LHBMatchingTest.csproj.CoreCompileInputs.cache
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/obj/Release/netcoreapp1.1/LHBMatchingTest.AssemblyInfoInputs.cache
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/obj/Release/netcoreapp1.1/LHBMatchingTest.AssemblyInfo.cs
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/obj/Release/netcoreapp1.1/LHBMatchingTest.dll
+/Users/frankfuentes/Projects/LHBMatchingTest/LHBMatchingTest/obj/Release/netcoreapp1.1/LHBMatchingTest.pdb
